@@ -1,0 +1,21 @@
+.boton {
+  color: aqua;
+}
+
+main {
+  background-color: black;
+  color: aliceblue;
+}
+
+.navbar-nav li a {
+  font-size: 4rem;
+  margin-left: 2rem;
+}
+
+#NavColor {
+  background-color: rgb(212, 78, 0);
+}
+
+footer {
+  background-color: blueviolet;
+}
